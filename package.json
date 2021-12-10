@@ -16,6 +16,7 @@
     "@yarnpkg/pnpify": "^3.1.1-rc.7",
     "discord.js": "^13.3.1",
     "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
     "wokcommands": "^1.5.3"
   },
   "devDependencies": {

@@ -27,7 +27,9 @@ client.on('ready', () => {
 				name: 'Testing',
 				emoji: '🔬',
 			},
-		]);
+        ]);
+    
+    const { slashCommands } = wok;
 });
 
 client.login(process.env.DJS_TOKEN);
