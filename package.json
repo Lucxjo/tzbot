@@ -8,7 +8,7 @@
   "license": "MIT",
   "packageManager": "yarn@3.0.2",
   "scripts": {
-    "dev": "nodemon dist/index.js",
+    "dev": "nodemon src/index.ts",
     "build": "tsc -w",
     "start": "yarn build && node ./dist/index.js"
   },
